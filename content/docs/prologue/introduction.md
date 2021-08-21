@@ -1,58 +1,32 @@
 ---
 title: "Introduction"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "CSC 6730 - Advanced Networking"
+lead: ""
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "prologue"
-weight: 100
+    parent: "syllabus"
+weight: 1
 toc: true
 ---
 
-## Get started
 
-There are two main ways to get started with Doks:
+In this class we will be reading several papers in the area of advanced networking. More specifically, we will be looking at papers in the following broad areas:
 
-### Tutorial
+1. Current Internet Model and the design decisions that led to the current TCP/IP model
+2. Autonomous systems and Border gateway protocol
+3. Domain name system and how contemporary applications use it
+3. Content Delivery Networks and Peer-to-Peer Networks
+4. Software Defined Networking
+5. Information Centric Networking
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+There is no textbook for this course. You will be reading assigned papers and create your own presentations. You will also do your own research, find and read related papers, articles, and RFCs.
 
-### Quick Start
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
 
-## Go further
 
-Recipes, Reference Guides, Extensions, and Showcase.
-
-### Recipes
-
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
-
-### Reference Guides
-
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
-
-### Extensions
-
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
-
-### Showcase
-
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
-
-## Contributing
-
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
-
-## Help
-
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
